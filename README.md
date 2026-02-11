@@ -7,6 +7,7 @@ A Project that combines together multiple AI services and allows users and busin
 - TailwindCSS
 - React-Hot-Toast
 - Lucide-React
+- Clerk Authentication
 
 
 ## Backend
@@ -15,3 +16,12 @@ A Project that combines together multiple AI services and allows users and busin
 - PostgreSQL
 - NeonDB
 - Google Gemini API
+
+## AI-Services
+- Article Generation
+- Title Generation
+- Image Generation
+- Background Removal
+- Resume Review
+
+
