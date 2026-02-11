@@ -42,10 +42,10 @@
 ## 🚀 Getting Started
 
 ### Prerequisites
-* Node.js (v18 or higher)
--   Google AI Studio API Key (for Gemini)
--   Clipdrop API Key
--   Clerk API Keys
+- Node.js (v18 or higher)
+- Google AI Studio API Key (for Gemini)
+- Clipdrop API Key
+- Clerk API Keys
 
 ### 🗺️Future Roadmap
 - [ ] **Export Options:** Download articles as PDF or Markdown files.
